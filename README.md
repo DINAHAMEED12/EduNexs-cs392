@@ -1,1 +1,1 @@
-# EduNexs-cs392
+# CS392EduNex
